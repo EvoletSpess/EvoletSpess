@@ -21,7 +21,7 @@
 - 💾 I am a senior medical student and an aspiring data analyst from Russia.
 - 💼 I’m working as a Business Development Associate and help my business find new opportunities to grow.
 - 🎹 My hobbies are playing music and gaming.
-- ⚡ In my free time, I study data analysis with YandexPracticum and solve data problems on Kaggle.
+- ⚡ In my free time, I study data analysis and solve data problems on Kaggle.
 
 - 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@as_fedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_fedotov)
 
