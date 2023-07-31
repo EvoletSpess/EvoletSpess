@@ -18,16 +18,16 @@
 
 </div>
   
-- 💾 I am a senior medical student and an aspiring data analyst from Russia.
-- 💼 I’m working as a Business Development Associate and help my business find new opportunities to grow.
-- 🎹 My hobbies are playing music and gaming.
-- ⚡ In my free time, I study data analysis and solve data problems on Kaggle.
+- 💾 I am a senior medical student and an aspiring Java dev that loves data from Russia.
+- 💼 I’m working as a Business Development Associate at a medtech startup and help my business find new opportunities to grow.
+- 🎹 My hobbies are playing the piano, singing and gaming.
+- ⚡ In my free time, I make projects and study programming on Hexlet.
 
 - 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@as_fedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_fedotov)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools for Data Analysis:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
