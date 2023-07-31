@@ -18,7 +18,7 @@
 
 </div>
   
-- 💾 I am a senior medical student and an aspiring Java dev that loves data from Russia.
+- 💾 I am a senior medical student and an aspiring Java dev that loves data.
 - 💼 I’m working as a Business Development Associate at a medtech startup and help my business find new opportunities to grow.
 - 🎹 My hobbies are playing the piano, singing and gaming.
 - ⚡ In my free time, I make projects and study programming on Hexlet.
@@ -27,7 +27,17 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools for Data Analysis:
+### 🖥️ My Languages and Tools for Programming:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="Intellij"  alt="Intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" title="Unix" **alt="Unix" width="40" height="40"/>&nbsp;
+</div>
+
+### :hammer_and_wrench: My Languages and Tools for Data Analysis:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
