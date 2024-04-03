@@ -8,6 +8,9 @@
       <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
   </div>
+      <a href="https://leetcode.com/evolet/">
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fevolet&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+    </a>
   <img src="https://komarev.com/ghpvc/?username=EvoletSpess&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -18,10 +21,10 @@
 
 </div>
   
-- 💾 I am a senior medical student and an aspiring Java dev that loves data.
+- 💾 I am a senior medical student and an aspiring dev that loves data.
 - 💼 I’m working as a Business Development Associate at a medtech startup and help my business find new opportunities to grow.
 - 🎹 My hobbies are playing the piano, singing and gaming.
-- ⚡ In my free time, I make projects and study programming on Hexlet.
+- ⚡ In my free time, I make projects and study programming in S21.
 
 - 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@as_fedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_fedotov)
 
@@ -32,7 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="Intellij"  alt="Intellij" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" title="Unix" **alt="Unix" width="40" height="40"/>&nbsp;
 </div>
