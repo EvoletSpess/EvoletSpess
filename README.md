@@ -21,10 +21,9 @@
 
 </div>
   
-- 💾 I am a senior medical student and an aspiring dev that loves data.
-- 💼 I’m working as a Business Development Associate at a medtech startup and help my business find new opportunities to grow.
+- 💾 Medical doctor and product analyst.
 - 🎹 My hobbies are playing the piano, singing and gaming.
-- ⚡ In my free time, I make projects and study programming in S21.
+- ⚡ In my free time... I don't have any free time.
 
 - 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@as_fedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_fedotov)
 
