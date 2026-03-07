@@ -49,11 +49,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="JuPyter" **alt="JuPyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
-
----
-<div id="sub-2" align="center">
-
-### :fire: My Stats :
-![GitHub Streak](https://streak-stats.demolab.com?user=EvoletSpess&theme=dark)
-
-</div>
