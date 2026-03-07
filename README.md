@@ -25,8 +25,6 @@
 - 🎹 My hobbies are playing the piano, singing and gaming.
 - ⚡ In my free time... I don't have any free time.
 
-- 📬 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@as_fedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_fedotov)
-
 ---
 
 ### 🖥️ My Languages and Tools for Programming:
